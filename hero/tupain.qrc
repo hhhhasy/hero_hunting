@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/n">
+        <file>D:/游戏图片/bao.jpg</file>
+        <file>D:/游戏图片/zha.jpg</file>
+        <file>D:/游戏图片/爱心.jpg</file>
+        <file>D:/游戏图片/奥特曼.jpg</file>
+        <file>D:/游戏图片/宝藏.jpg</file>
+        <file>D:/游戏图片/冰火人.png</file>
+        <file>D:/游戏图片/格子.jpg</file>
+        <file>D:/游戏图片/格子1 - 副本.jpg</file>
+        <file>D:/游戏图片/格子1.jpg</file>
+        <file>D:/游戏图片/格子2.jpg</file>
+        <file>D:/游戏图片/光.png</file>
+        <file>D:/游戏图片/光头强.png</file>
+        <file>D:/游戏图片/马.png</file>
+        <file>D:/游戏图片/马里奥.jpg</file>
+        <file>D:/游戏图片/喜羊羊.jpg</file>
+        <file>D:/游戏图片/喜洋洋.jpeg</file>
+        <file>D:/游戏图片/选.jpg</file>
+        <file>D:/游戏图片/选英雄.jpg</file>
+        <file>D:/游戏图片/寻宝背景.jpg</file>
+        <file>D:/游戏图片/游戏.webp.jpg</file>
+        <file>D:/游戏图片/游戏2.jpg</file>
+        <file>D:/游戏图片/游戏背景.png</file>
+        <file>D:/游戏图片/炸.jpg</file>
+        <file>D:/游戏图片/烟花.jpg</file>
+    </qresource>
+</RCC>
